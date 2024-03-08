@@ -3,3 +3,5 @@
 .jsdtscope
 .project
 /.settings/
+/.metadata/
+/bin/
